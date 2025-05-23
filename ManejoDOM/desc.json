@@ -1,0 +1,11 @@
+[
+  {
+    "idservicio": 1,
+    "idproducto": 12000025341,
+    "detalles": {
+      "CA": { "DSCT": 128621, "PAGO": 514485.01 },
+      "IN": { "DSCT": 0, "PAGO": 0 },
+      "M": { "DSCT": 34581, "PAGO": 0.83 }
+    }
+  }
+]
